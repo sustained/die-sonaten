@@ -11,7 +11,7 @@
     {
       key: ["F", "minor"]
       name: Allegro
-      time: common
+      time: [4, 4]
     }
     {
       key: ["F", "major"]
@@ -26,7 +26,7 @@
     {
       key: ["F", "minor"]
       name: Presto
-      time: alla breve
+      time: [2, 2]
     }
   ]
   dedication: Joseph Haydn

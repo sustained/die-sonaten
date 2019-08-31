@@ -21,7 +21,7 @@
     {
       key: ["C", "minor"]
       name: Rondo: Allegro
-      time: alla breve
+      time: [2, 2]
     }
   ]
   dedication: Prince Karl von Lichnowsky

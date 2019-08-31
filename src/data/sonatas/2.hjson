@@ -26,7 +26,7 @@
     {
       key: ["A", "major"]
       name: Rondo: Grazioso
-      time: "common"
+      time: [4, 4]
     }
   ]
   dedication: Joseph Haydn

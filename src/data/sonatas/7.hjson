@@ -11,7 +11,7 @@
     {
       key: ["D", "major"]
       name: Presto
-      time: "common"
+      time: [4, 4]
     }
     {
       key: ["D", "minor"]
@@ -26,7 +26,7 @@
     {
       key: ["D", "major"]
       name: Rondo: Allegro
-      time: "common"
+      time: [4, 4]
     }
   ]
   dedication: Countess Anne Margarete von Browne
