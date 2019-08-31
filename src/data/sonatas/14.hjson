@@ -1,0 +1,28 @@
+{
+  key: ["C#", "minor"]
+  opus: [27, 2]
+  number: 14
+  composer: Ludwig van Beethoven
+  duration: Unknown
+  nickname: Moonlight
+  composed: 1801
+  published: 1802
+  movements: [
+    {
+      key: ["C#", "minor"]
+      name: Adagio sostenuto
+      time: [2, 2]
+    }
+    {
+      key: ["Db", "major"]
+      name: Allegretto
+      time: [3, 4]
+    }
+    {
+      key: ["C#", "minor"]
+      name: Presto agitato
+      time: [4, 4]
+    }
+  ]
+  dedication: Countess Giuletta Guicciardi
+}

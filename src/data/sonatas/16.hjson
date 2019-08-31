@@ -1,0 +1,28 @@
+{
+  key: ["G", "major"]
+  opus: [31, 1]
+  number: 16
+  composer: Ludwig van Beethoven
+  duration: 20
+  nickname: null
+  composed: 1801-02
+  published: 1803
+  movements: [
+    {
+      key: ["G", "major"]
+      name: Allegro vivace
+      time: [2, 4]
+    }
+    {
+      key: ["C", "major"]
+      name: Adagio grazioso
+      time: [9, 8]
+    }
+    {
+      key: ["G", "major"]
+      name: Rondo, allegretto - presto
+      time: [2, 2]
+    }
+  ]
+  dedication: null
+}

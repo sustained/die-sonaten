@@ -1,0 +1,33 @@
+{
+  key: ["D", "major"]
+  opus: [28, 1]
+  number: 15
+  composer: Ludwig van Beethoven
+  duration: 25
+  nickname: Pastorale
+  composed: Unknown
+  published: 1801
+  movements: [
+    {
+      key: ["D", "major"]
+      name: Allegro
+      time: [3, 4]
+    }
+    {
+      key: ["D", "minor"]
+      name: Andante
+      time: [2, 4]
+    }
+    {
+      key: ["D", "major"]
+      name: Scherzo: Allegro vivace
+      time: [3, 4]
+    }
+    {
+      key: ["D", "major"]-
+      name: Rondo: Allegro ma non troppo
+      time: [6, 8]
+    }
+  ]
+  dedication: Count Joseph von Sonnenfels
+}
