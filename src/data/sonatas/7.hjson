@@ -1,0 +1,33 @@
+{
+  key: ["D", "major"]
+  opus: [10, 3]
+  number: 7
+  composer: Ludwig van Beethoven
+  duration: Unknown
+  nickname: null
+  composed: 1798
+  published: Unknown
+  movements: [
+    {
+      key: ["D", "major"]
+      name: Presto
+      time: "common"
+    }
+    {
+      key: ["D", "minor"]
+      name: Largo e mesto
+      time: [6, 8]
+    }
+    {
+      key: ["D", "major"]
+      name: Menuetto: Allegro
+      time: [3, 4]
+    }
+    {
+      key: ["D", "major"]
+      name: Rondo: Allegro
+      time: "common"
+    }
+  ]
+  dedication: Countess Anne Margarete von Browne
+}

@@ -1,0 +1,28 @@
+{
+  key: ["C", "minor"]
+  opus: [13, 1]
+  number: 8
+  composer: Ludwig van Beethoven
+  duration: 19
+  nickname: Sonata Pathétique
+  composed: 1798
+  published: 1799
+  movements: [
+    {
+      key: ["C", "minor"]
+      name: Grave: Allegro di molto e con brio
+      time: [2, 2]
+    }
+    {
+      key: ["Ab", "major"]
+      name: Adagio cantabile
+      time: [2, 4]
+    }
+    {
+      key: ["C", "minor"]
+      name: Rondo: Allegro
+      time: alla breve
+    }
+  ]
+  dedication: Prince Karl von Lichnowsky
+}

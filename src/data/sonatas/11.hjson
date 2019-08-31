@@ -1,0 +1,37 @@
+{
+  key: ["Bb", "major"]
+  opus: [22, 1]
+  number: 11
+  composer: Ludwig van Beethoven
+  duration: 27
+  nickname: null
+  composed: 1800
+  published: 1802
+  movements: [
+    {
+      key: ["Bb", "major"]
+      name: Allegro con brio
+      # TODO: 
+      time: []
+    }
+    {
+      key: ["Eb", "major"]
+      name: Adagio con molto espressione
+      # TODO: 
+      time: []
+    }
+    {
+      key: ["Bb", "major"]
+      name: Menuetto
+      # TODO: 
+      time: []
+    }
+    {
+      key: ["Bb", "major"]
+      name: Rondo: Allegretto
+      # TODO: 
+      time: []
+    }
+  ]
+  dedication: null
+}

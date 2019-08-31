@@ -1,0 +1,28 @@
+{
+  key: ["C", "minor"]
+  opus: [10, 1]
+  number: 5
+  composer: Ludwig van Beethoven
+  duration: Unknown
+  nickname: null
+  composed: 1796-98
+  published: Unknown
+  movements: [
+    {
+      key: ["C", "minor"]
+      name: Allegro molto e con brio
+      time: [3, 4]
+    }
+    {
+      key: ["Ab", "major"]
+      name: Adagio molto
+      time: [2, 4]
+    }
+    {
+      key: ["C", "minor"]
+      name: Finale: Prestissimo
+      time: [2, 2]
+    }
+  ]
+  dedication: Anna Margarete von Browne
+}

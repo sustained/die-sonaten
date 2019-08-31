@@ -1,0 +1,31 @@
+{
+  key: ["E", "major"]
+  opus: [14, 1]
+  number: 9
+  composer: Ludwig van Beethoven
+  duration: Unknown
+  nickname: null
+  composed: 1798
+  published: Unknown
+  movements: [
+    {
+      key: ["E", "major"]
+      name: Allegro
+      # TODO
+      time: []
+    }
+    {
+      key: ["E", "minor"]
+      name: Allegretto
+      # TODO
+      time: []
+    }
+    {
+      key: ["E", "major"]
+      name: Rondo - Allegro comodo
+      # TODO
+      time: []
+    }
+  ]
+  dedication: Baroness Josefa von Braun
+}

@@ -1,0 +1,31 @@
+{
+  key: ["G", "major"]
+  opus: [14, 2]
+  number: 10
+  composer: Ludwig van Beethoven
+  duration: 15
+  nickname: null
+  composed: 1798-1799
+  published: Unknown
+  movements: [
+    {
+      key: ["G", "major"]
+      name: Allegro
+      # TODO:
+      time: []
+    }
+    {
+      key: ["C", "major"]
+      name: Andante
+      # TODO:
+      time: []
+    }
+    {
+      key: ["G", "major"]
+      name: Scherzo: Allegro assai
+      # TODO:
+      time: []
+    }
+  ]
+  dedication: Baroness Josefa von Braun
+}

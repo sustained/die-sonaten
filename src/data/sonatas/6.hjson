@@ -1,0 +1,28 @@
+{
+  key: ["F", "major"]
+  opus: [10, 2]
+  number: 6
+  composer: Ludwig van Beethoven
+  duration: 13
+  nickname: null
+  composed: 1796-98
+  published: Unknown
+  movements: [
+    {
+      key: ["F", "major"]
+      name: Allegro
+      time: [2, 4]
+    }
+    {
+      key: ["F", "minor"]
+      name: Menuetto, Allegretto
+      time: [3, 4]
+    }
+    {
+      key: ["F", "major"]
+      name: Presto
+      time: [2, 4]
+    }
+  ]
+  dedication: Countess Anne Margarete von Browne
+}

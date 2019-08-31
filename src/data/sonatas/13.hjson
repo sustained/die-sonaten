@@ -1,0 +1,37 @@
+{
+  key: ["Eb", "major"]
+  opus: [27, 1]
+  number: 13
+  composer: Ludwig van Beethoven
+  duration: Unknown
+  nickname: Quasi una fantasia
+  composed: 1800-1801
+  published: Unknown
+  movements: [
+    {
+      key: ["Eb", "major"]
+      name: Andante - Allegro - Andante
+      # TODO:
+      time: []
+    }
+    {
+      key: ["C", "minor"]
+      name: Allegro molto e vivace
+      # TODO: 
+      time: []
+    }
+    {
+      key: ["Ab", "major"]
+      name: Adagio con espressione
+      # TODO: 
+      time: []
+    }
+    {
+      key: ["Eb", "major"]
+      name: Allegro vivace
+      # TODO: 
+      time: []
+    }
+  ]
+  dedication: Princess Josephine von Liechtenstein
+}
