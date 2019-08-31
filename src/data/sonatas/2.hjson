@@ -1,0 +1,33 @@
+{
+  key: ["A", "major"]
+  opus: [2, 2]
+  number: 2
+  composer: Ludwig van Beethoven
+  duration: 22
+  nickname: null
+  composed: 1795
+  published: 1796
+  movements: [
+    {
+      key: ["A", "major"]
+      name: Allegro vivace
+      time: [2, 4]
+    }
+    {
+      key: ["D", "major"]
+      name: Largo appassionato
+      time: [3, 4]
+    }
+    {
+      key: ["A", "major"]
+      name: Scherzo: Allegretto
+      time: [3, 4]
+    }
+    {
+      key: ["A", "major"]
+      name: Rondo: Grazioso
+      time: "common"
+    }
+  ]
+  dedication: Joseph Haydn
+}

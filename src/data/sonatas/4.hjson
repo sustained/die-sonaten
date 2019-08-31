@@ -1,0 +1,33 @@
+{
+  key: ["Eb", "major"]
+  opus: [7, 1]
+  number: 4
+  composer: Ludwig van Beethoven
+  duration: 28
+  nickname: Grand Sonata
+  composed: 1796
+  published: Unknown
+  movements: [
+    {
+      key: ["C", "major"]
+      name: Allegro molto e con brio
+      time: [6, 8]
+    }
+    {
+      key: ["C", "major"]
+      name: Largo, con gran espressione
+      time: [3, 4]
+    }
+    {
+      key: ["Eb", "major"]
+      name: Allegro
+      time: [3, 4]
+    }
+    {
+      key: ["C", "major"]
+      name: Rondo: Poco allegretto e granzioso
+      time: [2, 4]
+    }
+  ]
+  dedication: Ana Luiza Barbara "Babette" Keglević
+}

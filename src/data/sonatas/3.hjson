@@ -1,0 +1,33 @@
+{
+  key: ["C", "major"]
+  opus: [2, 3]
+  number: 3
+  composer: Ludwig van Beethoven
+  duration: 25
+  nickname: null
+  composed: 1795
+  published: Unknown
+  movements: [
+    {
+      key: ["C", "major"]
+      name: Allegro con brio
+      time: common
+    }
+    {
+      key: ["E", "major"]
+      name: Adagio
+      time: [2, 4]
+    }
+    {
+      key: ["C", "major"]
+      name: Scherzo: Allegro
+      time: [3, 4]
+    }
+    {
+      key: ["C", "major"]
+      name: Allegro assai
+      time: [6, 8]
+    }
+  ]
+  dedication: Joseph Haydn
+}
