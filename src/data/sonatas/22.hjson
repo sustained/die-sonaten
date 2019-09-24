@@ -3,10 +3,10 @@
   opus: [54, 1]
   number: 22
   composer: Ludwig van Beethoven
-  duration: n
-  nickname: t
-  composed: d
-  published: d
+  duration: Unknown
+  nickname: null
+  composed: 1804
+  published: Unknown
   movements: [
     {
       key: ["F", "Major"]
