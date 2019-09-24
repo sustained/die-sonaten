@@ -1,0 +1,23 @@
+{
+  key: ["G", "minor"]
+  opus: [49, 1]
+  number: 19
+  composer: Ludwig van Beethoven
+  duration: Unknown
+  nickname: Leichte Sonate #1
+  composed: 1795-96
+  published: 1805
+  movements: [
+    {
+      key: ["G", "minor"]
+      name: Andante
+      time: [2, 4]
+    }
+    {
+      key: ["G", "major"]
+      name: Rondo: Allegro
+      time: [6, 8]
+    }
+  ]
+  dedication: null
+}

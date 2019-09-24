@@ -1,0 +1,28 @@
+{
+  key: ["G", "Major"]
+  opus: [79, 1]
+  number: 25
+  composer: Ludwig van Beethoven
+  duration: 11
+  nickname: Cuckoo
+  composed: 1809
+  published: Unknown
+  movements: [
+    {
+      key: []
+      name: Presto alla tedesca
+      time: []
+    }
+    {
+      key: ["G", "minor"]
+      name: Andante
+      time: []
+    }
+    {
+      key: []
+      name: Vivace
+      time: []
+    }
+  ]
+  dedication: null
+}

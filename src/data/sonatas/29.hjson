@@ -1,0 +1,33 @@
+{
+  key: ["Bb", "Major"]
+  opus: [106, 1]
+  number: 29
+  composer: Ludwig van Beethoven
+  duration: 47
+  nickname: Hammerklavier
+  composed: 1818
+  published: Unknown
+  movements: [
+    {
+      key: ["Bb", "Major"]
+      name: Allegro
+      time: [4, 4]
+    }
+    {
+      key: ["Bb", "Major"]
+      name: Scherzo: Assai vivace
+      time: []
+    }
+    {
+      key: ["F#","minor"]
+      name: Adagio sostenuto
+      time: []
+    }
+    {
+      key: ["Bb", "Major"]
+      name: Introduzione: Largo... Allegro - Fuga: Allegro risoluto
+      time: [3, 4]
+    }
+  ]
+  dedication: Archduke Rudolf of Austria
+}

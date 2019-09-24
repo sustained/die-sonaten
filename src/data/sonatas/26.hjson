@@ -1,0 +1,28 @@
+{
+  key: ["Eb", "Major"]
+  opus: [81, 1]
+  number: 26
+  composer: Ludwig van Beethoven
+  duration: 17
+  nickname: Les Adieux
+  composed: 1809-10
+  published: 1811
+  movements: [
+    {
+      key: ["Eb", "Major"]
+      name: Das Lebewohl - The Farewell; Adagio - Allegro
+      time: [2, 4]
+    }
+    {
+      key: ["C", "minor"]
+      name: Abwesenheit - L'Absence - Andante espressivo
+      time: [2, 4]
+    }
+    {
+      key: ["Eb", "Major"]
+      name: Das Wiedersehen - Le Retour; Vivacissimamente
+      time: [6, 8]
+    }
+  ]
+  dedication: Archduke Rudolf of Austria
+}

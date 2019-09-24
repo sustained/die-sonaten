@@ -1,0 +1,33 @@
+{
+  key: ["A", "Major"]
+  opus: [101, 1]
+  number: 28
+  composer: Ludwig van Beethoven
+  duration: 21
+  nickname: null
+  composed: 1816
+  published: Unknown
+  movements: [
+    {
+      key: ["A", "Major"]
+      name: Etwas lebhaft, und mit der innigsten Empfindung; Allegretto, ma non troppo
+      time: [6, 8]
+    }
+    {
+      key: ["F", "Major"]
+      name: Lebhaft, marschmäßig; Vivace alla marcia
+      time: [4, 4]
+    }
+    {
+      key: ["A", "minor"]
+      name: Langsam und sehnsuchtsvoll; Adagio, ma non troppo, con affetto
+      time: [2, 4]
+    }
+    {
+      key: ["A", "Major"]
+      name: Geschwind, doch nicht zu sehr, und mit Entschlossenheit; Allegro
+      time: []
+    }
+  ]
+  dedication: Baroness Dorothea Ertmann, née Graumen
+}

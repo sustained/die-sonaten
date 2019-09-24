@@ -1,0 +1,28 @@
+{
+  key: ["F", "minor"]
+  opus: [57, 1]
+  number: 23
+  composer: Ludwig van Beethoven
+  duration: 25
+  nickname: Appassionata
+  composed: 1804-05
+  published: 1807
+  movements: [
+    {
+      key: ["F", "minor"]
+      name: Allegro assai
+      time: [12, 8]
+    }
+    {
+      key: ["Db", "Major"]
+      name: Andante con moto
+      time: []
+    }
+    {
+      key: []
+      name: Allegro ma non troppo - Presto
+      time: []
+    }
+  ]
+  dedication: Count Franz von Brunswick
+}

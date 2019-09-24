@@ -1,0 +1,23 @@
+{
+  key: ["C", "minor"]
+  opus: [111, 1]
+  number: n
+  composer: Ludwig van Beethoven
+  duration: 27
+  nickname: null
+  composed: 1821-22
+  published: Unknown
+  movements: [
+    {
+      key: ["C", "minor"]
+      name: Maestoso - Allegro con brio ed appassionato
+      time: [4, 4]
+    }
+    {
+      key: ["C", "Major"]
+      name: Arietta - Adagio molto semplice e cantabile
+      time: [9, 16]
+    }
+  ]
+  dedication: Archduke Rudolf of Austria
+}

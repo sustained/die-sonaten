@@ -1,0 +1,23 @@
+{
+  key: ["G", "Major"]
+  opus: [49, 2]
+  number: 20
+  composer: Ludwig van Beethoven
+  duration: Unknown
+  nickname: Leichte Sonate #2
+  composed: 1795-96
+  published: 1805
+  movements: [
+    {
+      key: ["G", "Major"]
+      name: Allegro ma non troppo
+      time: [2, 2]
+    }
+    {
+      key: ["G", "Major"]
+      name: Tempo di Menuetto
+      time: [3, 4]
+    }
+  ]
+  dedication: null
+}

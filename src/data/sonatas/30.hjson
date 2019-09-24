@@ -1,0 +1,28 @@
+{
+  key: ["E", "Major"]
+  opus: [109, 1]
+  number: 30
+  composer: Ludwig van Beethoven
+  duration: 20
+  nickname: null
+  composed: 1820
+  published: 1821
+  movements: [
+    {
+      key: ["E", "Major"]
+      name: Vivace ma non troppo - Adagio espressivo
+      time: [2, 4]
+    }
+    {
+      key: ["E", "minor"]
+      name: Prestissimo
+      time: [6, 8]
+    }
+    {
+      key: ["E", "Major"]
+      name: Gesangvoll, mit innigster Empfindung; Andante molto cantabile ed espressivo
+      time: [3, 4]
+    }
+  ]
+  dedication: Maximiliane Brentano
+}

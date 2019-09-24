@@ -1,0 +1,33 @@
+{
+  key: ["Eb", "Major"]
+  opus: [31, 3]
+  number: 18
+  composer: Ludwig van Beethoven
+  duration: Unknown
+  nickname: The Hunt
+  composed: 1802
+  published: Unknown
+  movements: [
+    {
+      key: []
+      name: Allegro
+      time: [3, 4]
+    }
+    {
+      key: []
+      name: Scherzo - Allegretto vivace
+      time: [2, 4]
+    }
+    {
+      key: ["Eb", "Major"]
+      name: Menuetto, moderato e grazioso
+      time: []
+    }
+    {
+      key: []
+      name: Presto con fuoco
+      time: []
+    }
+  ]
+  dedication: null
+}

@@ -1,0 +1,23 @@
+{
+  key: ["F#", "Major"]
+  opus: [78, 1]
+  number: 24
+  composer: Ludwig van Beethoven
+  duration: 10
+  nickname: À Thérèse"
+  composed: 1809
+  published: Unknown
+  movements: [
+    {
+      key: ["F#", "Major"]
+      name: Adagio cantabile - Allegro ma non troppo
+      time: [2, 4]
+    }
+    {
+      key: ["F#", "Major"]
+      name: Allegro vivace
+      time: [2, 4]
+    }
+  ]
+  dedication: null
+}
