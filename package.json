@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "compile-json": "find src/data/sonatas -maxdepth 1 -type f -exec basename {} '.hjson' \\; | xargs -i sh -c 'hjson -j src/data/sonatas/{}.hjson > public/data/sonatas/{}.json'"
   },
   "dependencies": {
     "core-js": "^2.6.5",
