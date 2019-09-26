@@ -9,6 +9,7 @@
     "compile-json": "find src/data/sonatas -maxdepth 1 -type f -exec basename {} '.hjson' \\; | xargs -i sh -c 'hjson -j src/data/sonatas/{}.hjson > public/data/sonatas/{}.json'"
   },
   "dependencies": {
+    "animate-css-grid": "^1.4.1",
     "core-js": "^2.6.5",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
