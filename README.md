@@ -7,7 +7,7 @@ An interactive experience about the 32 Beethoven piano sonatas.
 - [Why make this?](#why-make-this) (RATIONALE)
 - [What does it do?](#what-does-it-do) (EXPLANATION)
 - [Can I use your...?](#can-i-use-your) (RIGHTS/LICENSE)
-- [How do I run it?](#how-do-i-run-it) (INSTALLATION/SETUP)
+- [How do I run this?](#how-do-i-run-this) (INSTALLATION/SETUP)
 
 # Why make this?
 
