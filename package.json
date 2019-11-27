@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "compile-json": "find src/data/sonatas -maxdepth 1 -type f -exec basename {} '.hjson' \\; | xargs -i sh -c 'hjson -j src/data/sonatas/{}.hjson > public/data/sonatas/{}.json'"
+    "compile-json": "find data/sonatas -maxdepth 1 -type f -exec basename {} '.hjson' \\; | xargs -i sh -c 'hjson -j data/sonatas/{}.hjson > src/data/sonatas/{}.json'"
   },
   "dependencies": {
     "animate-css-grid": "^1.4.1",

@@ -20,4 +20,4 @@ yarn-error.log*
 *.sln
 *.sw?
 
-public/data/sonatas/*.json
+src/data/sonatas/*.json
