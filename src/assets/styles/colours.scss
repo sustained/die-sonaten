@@ -1,0 +1,70 @@
+// https://en.wikipedia.org/wiki/Clavier_%C3%A0_lumi%C3%A8res
+
+$C: hsl(360, 100%, 50%);
+$Am: $C;
+
+$G: hsl(30, 100%, 50%);
+$Em: $G;
+
+$D: hsl(60, 100%, 50%);
+$Bm: $D;
+
+$A: hsl(120, 61%, 50%);
+$Fsm: $A;
+
+$E: hsl(192, 97%, 88%);
+$Csm: $E;
+
+$B: hsl(208, 100%, 78%);
+$Gsm: $B;
+
+$Fs: hsl(235, 97%, 75%);
+$Gb: $Fs;
+$Ebm: $Gb;
+$Dsm: $Gb;
+
+$Db: hsl(270, 100%, 57%);
+$Bbm: $Db;
+$Asm: $Db;
+
+$Ab: hsl(271, 96%, 73%);
+$Fm: $Ab;
+
+$Eb: hsl(323, 45%, 50%);
+$Cm: $Eb;
+
+$Bb: hsl(342, 27%, 53%);
+$Gm: $Bb;
+
+$F: hsl(342, 100%, 34%);
+$Dm: $F;
+
+$keyColours: (  
+  CMajor: $C,
+  AMinor: $Am,
+  GMajor: $G,
+  EMinor: $Em,
+  DMajor: $D,
+  BMinor: $Bm,
+  AMajor: $A,
+  FSharpMinor: $Fsm,
+  EMajor: $E,
+  CSharpMinor: $Csm,
+  BMajor: $B,
+  GSharpMinor: $Gsm,
+  FSharpMajor: $Fs,
+  GFlatMajor: $Fs,
+  EFlatMinor: $Ebm,
+  DSharpMinor: $Dsm,
+  DFlatMajor: $Db,
+  BFlatMinor: $Bbm,
+  ASharpMinor: $Asm,
+  AFlatMajor: $Ab,
+  FMinor: $Fm,
+  EFlatMajor: $Eb,
+  CMinor: $Cm,
+  BFlatMajor: $Bb,
+  GMinor: $Gm,
+  FMajor: $F,
+  DMinor: $Dm
+);

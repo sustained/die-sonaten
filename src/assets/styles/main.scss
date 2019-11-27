@@ -1,0 +1,15 @@
+@import "colours.scss";
+@import "grid.scss";
+@import "cards.scss";
+
+/*
+  TODO: Only include characters we need for this font (possibly will end up being [0-9#]).
+*/
+@import url("https://fonts.googleapis.com/css?family=Parisienne&display=swap");
+
+#app {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Tahoma, Roboto, Oxygen, "Oxygen Sans",
+    "Fira Sans", "Droid Sans", "Ubuntu", "Cantarell", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
